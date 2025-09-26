@@ -21,7 +21,7 @@ public class Main {
             }
         }
 
-        // Выводим результат
+      
         System.out.println("Простых чисел от 0 до 100: " + count1);
         System.out.println("Простых чисел от 100 до 500: " + count2);
 
